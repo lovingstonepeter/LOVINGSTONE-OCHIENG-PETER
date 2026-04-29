@@ -1,7 +1,7 @@
 # 👨‍💻 Lovingstone Ochieng Peter – Portfolio
 
 ## 🌐 Live Portfolio
-Live site: https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/
+Live site:  https://lovingstonepeter.github.io/LOVINGSTONE-OCHIENG-PETER/
 
 ---
 
